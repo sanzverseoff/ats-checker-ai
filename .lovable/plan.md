@@ -1,6 +1,6 @@
 
 
-# ResumeMatch AI — Implementation Plan
+# ATS Checker AI — Implementation Plan
 
 ## Overview
 A modern web app where users upload their resume and paste a job description to get an AI-powered match analysis with actionable improvement suggestions.
@@ -8,7 +8,7 @@ A modern web app where users upload their resume and paste a job description to 
 ## Phase 1: Core Experience (This Build)
 
 ### 1. Landing Page & Layout
-- Clean, professional hero section with app branding ("ResumeMatch AI")
+- Clean, professional hero section with app branding ("ATS Checker AI")
 - Dark/light mode toggle in the header
 - Color palette: blues, purples, and grays for a professional SaaS feel
 - Smooth transitions and subtle shadows throughout
